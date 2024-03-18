@@ -14,11 +14,14 @@ Características principales:
 
 Tecnologías utilizadas:
 
--Java POO
--Spring Boot
--Java Persistence API (JPA) con Hibernate
--MySQL
--Patrón de Diseño DTO
+-Java POO 
+-Spring Boot 
+-JSON
+-Java Persistence API (JPA) con Hibernate 
+-MySQL 
+-Postman
+-Maven
+-Patrón de Diseño DTO 
 -Patrón de Diseño MVC
 
 Aptitudes:
