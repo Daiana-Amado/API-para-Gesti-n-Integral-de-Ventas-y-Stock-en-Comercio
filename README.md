@@ -9,6 +9,7 @@ Características principales:
 -Implementa patrones DTO (Objeto de Transferencia de Datos) para una comunicación eficiente entre el frontend y el backend.
 -Controla automáticamente la disponibilidad de stock antes de realizar una venta y separa los productos disponibles de los no disponibles.
 -Actualiza automáticamente el stock después de cada venta.
+-Suma los costes finales de cada venta de manera automática para agilizar el trabajo de cuentas.
 -Ofrece endpoints adicionales para obtener información específica, como productos con stock bajo, lista de productos de una venta y sumatoria del monto y cantidad total de ventas por día.
 -Diseñada para ser utilizada por una aplicación web y una aplicación móvil, con el objetivo de proporcionar una experiencia unificada a los usuarios.
 
