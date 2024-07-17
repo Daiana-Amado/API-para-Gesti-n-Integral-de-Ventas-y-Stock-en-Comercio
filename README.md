@@ -26,17 +26,15 @@ la lista de productos de una venta específica y la sumatoria del monto y cantid
       <td><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></td>
 			<td><img width="50" src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" alt="Hibernate" title="Hibernate"/></td>
       <td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Postman" title="Postman"/></td>
+			<td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="Maven" title="Maven"/></td>
+			<td><img width="50" src="https://raw.githubusercontent.com/No-Country/c17-61-t-java.old/Produccion/extra/postman-icon.webp" alt="JSON" title="JSON"/></td>
 		</tr>
 	</table>
 </div>
-
-
--JSON 
--Maven
 
 ## Desarrolladora backend
 
 |                                                       <img src="https://avatars.githubusercontent.com/u/54690832?v=4](https://avatars.githubusercontent.com/u/84197042?v=4" width=80/>                                                        |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                                                    **Daiana Amado**                                                                                     |
-| <a href="https://www.linkedin.com/in/daiana-amado/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Daiana-Amado"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> |
+| <a href="https://www.linkedin.com/in/daiana-amado/"><img src="[https://img.shields.io/badge/linkedin%20-%230077B5.svg?](https://media.licdn.com/dms/image/D4D35AQHRHVmuAEsdTg/profile-framedphoto-shrink_200_200/0/1714403547522?e=1721851200&v=beta&t=DfmVLR2oDmUQcgwpaJVa-t6b7466e7Y61ULhtICe8nQ)&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/Daiana-Amado"><img src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a> |
