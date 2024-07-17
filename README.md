@@ -1,4 +1,4 @@
-# Proyecto: Union Wallet - Paga rápido, paga con Union Wallet
+# Proyecto: API para Gestión de Ventas y Stock en Comercio
 
 Desarrollé una API para gestionar las ventas y el stock de productos de un bazar que ha experimentado un notable aumento en sus ventas. 
 Esta API permite realizar operaciones de CRUD (Crear, Leer, Actualizar, Eliminar) tanto para productos como para clientes y ventas. 
